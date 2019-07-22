@@ -41,6 +41,7 @@
         <property name="annotatedClasses">
             <list>
                 <value>mypack.UserDetails</value>
+                <value>mypack.Catagory</value>
              </list>
         </property>
    </bean>
